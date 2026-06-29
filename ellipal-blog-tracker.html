@@ -441,7 +441,7 @@ function render(){
         const geo=a.geo!=null?`<span class="geo-val">${a.geo}</span>`:`<span style="color:#ccc">—</span>`;
         const urlVal=a.url||'';
         let btn='';
-        if(a.status==='pending'||a.status==='writing')btn=`<button class="write-btn" onclick="window.open('https://claude.ai','_blank')">Start writing ↗</button>`;
+        if(a.status==='pending'||a.status==='writing'||a.status==='reserve')btn=`<button class="write-btn" onclick="window.open('https://claude.ai','_blank')">Start writing ↗</button>`;
         else if(a.status==='covered')btn=`<button class="write-btn" onclick="window.open('${a.url}','_blank')">View ↗</button>`;
         const priCls={'高':'pri-high','中':'pri-mid','低':'pri-low'}[a.pri]||'pri-low';
         const rowStyle=a.status==='produced'?'background:#F0F7FF;':a.status==='published'?'background:#F0FFF4;':'';
