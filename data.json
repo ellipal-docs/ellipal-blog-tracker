@@ -444,7 +444,7 @@
   {
    "id": "SEC-003",
    "cat": "Security & Threats",
-   "title": "Compromised backup",
+   "title": "What to Do If Your Seed Phrase Backup Is Compromised?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -454,7 +454,7 @@
   {
    "id": "TKN-003",
    "cat": "Blockchain & Tokens",
-   "title": "Coin",
+   "title": "What Is Coin?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -464,7 +464,7 @@
   {
    "id": "CHN-003",
    "cat": "Exchange & Chains",
-   "title": "Canton Network",
+   "title": "What Is the Canton Network?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -474,7 +474,7 @@
   {
    "id": "DFI-002",
    "cat": "DeFi & Payments",
-   "title": "Fiat off-ramp",
+   "title": "What Is a Fiat Off-Ramp?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -484,7 +484,7 @@
   {
    "id": "DFI-003",
    "cat": "DeFi & Payments",
-   "title": "Fiat on-ramp",
+   "title": "What Is a Fiat On-Ramp?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -494,7 +494,7 @@
   {
    "id": "TKN-004",
    "cat": "Blockchain & Tokens",
-   "title": "SPL token",
+   "title": "What Is an SPL Token?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -504,7 +504,7 @@
   {
    "id": "KEY-005",
    "cat": "Keys & Standards",
-   "title": "Address",
+   "title": "What Is a Crypto Address?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -514,7 +514,7 @@
   {
    "id": "STK-002",
    "cat": "DeFi & Payments",
-   "title": "Proof of stake",
+   "title": "What Is Proof of Stake?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -524,7 +524,7 @@
   {
    "id": "CHN-004",
    "cat": "Exchange & Chains",
-   "title": "Taproot / bech32m",
+   "title": "What Is Taproot (bech32m)?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -534,7 +534,7 @@
   {
    "id": "CHN-005",
    "cat": "Exchange & Chains",
-   "title": "Change address",
+   "title": "What Is a Change Address?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -544,7 +544,7 @@
   {
    "id": "BIP-006",
    "cat": "Keys & Standards",
-   "title": "BIP39 checksum",
+   "title": "What Is the BIP39 Checksum?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -554,7 +554,7 @@
   {
    "id": "KEY-006",
    "cat": "Keys & Standards",
-   "title": "HD wallet",
+   "title": "What Is an HD Wallet?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -564,7 +564,7 @@
   {
    "id": "BC-003",
    "cat": "Blockchain & Tokens",
-   "title": "Privacy coin",
+   "title": "What Is a Privacy Coin?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -574,7 +574,7 @@
   {
    "id": "CHN-006",
    "cat": "Exchange & Chains",
-   "title": "Trustline",
+   "title": "What Is a Trustline (XRP/XLM)?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -584,7 +584,7 @@
   {
    "id": "CHN-007",
    "cat": "Exchange & Chains",
-   "title": "XDC address format",
+   "title": "What Is the XDC Address Format?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -594,7 +594,7 @@
   {
    "id": "SEC-009",
    "cat": "Security & Threats",
-   "title": "Address poisoning",
+   "title": "What Is an Address Poisoning Attack?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -604,7 +604,7 @@
   {
    "id": "KEY-007",
    "cat": "Keys & Standards",
-   "title": "Private key",
+   "title": "What Is a Private Key?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -614,7 +614,7 @@
   {
    "id": "TKN-005",
    "cat": "Blockchain & Tokens",
-   "title": "TRC-20",
+   "title": "What Is TRC-20?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -624,7 +624,7 @@
   {
    "id": "BC-004",
    "cat": "Cold Wallet Basics",
-   "title": "Where are coins stored",
+   "title": "Where Is Your Crypto Actually Stored?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -634,7 +634,7 @@
   {
    "id": "SEC-010",
    "cat": "Security & Threats",
-   "title": "Two-factor authentication",
+   "title": "What Is Two-Factor Authentication (2FA) in Crypto?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -644,7 +644,7 @@
   {
    "id": "STK-003",
    "cat": "DeFi & Payments",
-   "title": "APY",
+   "title": "What Is APY in Crypto?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -654,7 +654,7 @@
   {
    "id": "BIP-007",
    "cat": "Keys & Standards",
-   "title": "ERC-4337",
+   "title": "What Is ERC-4337 (Account Abstraction)?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -664,7 +664,7 @@
   {
    "id": "CEX-005",
    "cat": "Exchange & Chains",
-   "title": "Withdrawal address whitelist",
+   "title": "What Is a Withdrawal Address Whitelist?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -674,7 +674,7 @@
   {
    "id": "TKN-006",
    "cat": "Blockchain & Tokens",
-   "title": "Airdrop",
+   "title": "What Is a Crypto Airdrop?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -684,7 +684,7 @@
   {
    "id": "BC-005",
    "cat": "Blockchain & Tokens",
-   "title": "Anonymity vs pseudonymity",
+   "title": "Anonymity vs Pseudonymity in Crypto: What's the Difference?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -694,7 +694,7 @@
   {
    "id": "KEY-008",
    "cat": "Keys & Standards",
-   "title": "Asymmetric cryptography",
+   "title": "What Is Asymmetric Cryptography?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -704,7 +704,7 @@
   {
    "id": "BIP-008",
    "cat": "Keys & Standards",
-   "title": "BEP-20",
+   "title": "What Is BEP-20?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -714,7 +714,7 @@
   {
    "id": "BIP-009",
    "cat": "Keys & Standards",
-   "title": "BIP32",
+   "title": "What Is BIP32?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -724,7 +724,7 @@
   {
    "id": "BIP-010",
    "cat": "Keys & Standards",
-   "title": "BIP39 wordlist",
+   "title": "What Is the BIP39 Wordlist?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -734,7 +734,7 @@
   {
    "id": "BIP-011",
    "cat": "Keys & Standards",
-   "title": "Seed entropy",
+   "title": "What Is Seed Entropy?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -744,7 +744,7 @@
   {
    "id": "BIP-012",
    "cat": "Keys & Standards",
-   "title": "BIP44 / BIP49 / BIP84 / BIP86",
+   "title": "What Is BIP44 / BIP49 / BIP84 / BIP86?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -754,7 +754,7 @@
   {
    "id": "CHN-008",
    "cat": "Exchange & Chains",
-   "title": "BNB Chain",
+   "title": "What Is BNB Chain?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -764,7 +764,7 @@
   {
    "id": "CHN-009",
    "cat": "Exchange & Chains",
-   "title": "SegWit",
+   "title": "What Is SegWit?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -774,7 +774,7 @@
   {
    "id": "CHN-010",
    "cat": "Exchange & Chains",
-   "title": "Bitcoin dust",
+   "title": "What Is Bitcoin Dust?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -784,7 +784,7 @@
   {
    "id": "SEC-012",
    "cat": "Security & Threats",
-   "title": "Blind signing",
+   "title": "What Is Blind Signing and Why Is It Risky?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -794,7 +794,7 @@
   {
    "id": "BC-006",
    "cat": "Blockchain & Tokens",
-   "title": "Block",
+   "title": "What Is a Block in Blockchain?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -804,7 +804,7 @@
   {
    "id": "BC-007",
    "cat": "Blockchain & Tokens",
-   "title": "Blockchain vs database",
+   "title": "Blockchain vs Database: What's the Difference?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -814,7 +814,7 @@
   {
    "id": "DFI-004",
    "cat": "DeFi & Payments",
-   "title": "Cross-chain bridge",
+   "title": "What Is a Cross-Chain Bridge?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -824,7 +824,7 @@
   {
    "id": "DFI-005",
    "cat": "DeFi & Payments",
-   "title": "Bridge risk",
+   "title": "Why Are Cross-Chain Bridges Risky?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -834,7 +834,7 @@
   {
    "id": "PAY-003",
    "cat": "DeFi & Payments",
-   "title": "Central bank digital currency",
+   "title": "What Is a CBDC (Central Bank Digital Currency)?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -844,7 +844,7 @@
   {
    "id": "DFI-006",
    "cat": "DeFi & Payments",
-   "title": "Centralized exchange",
+   "title": "What Is a Centralized Exchange (CEX)?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -854,7 +854,7 @@
   {
    "id": "BC-008",
    "cat": "Blockchain & Tokens",
-   "title": "Chain ID",
+   "title": "What Is a Chain ID?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -864,7 +864,7 @@
   {
    "id": "STK-004",
    "cat": "DeFi & Payments",
-   "title": "Delegated staking offline",
+   "title": "Can You Stake From a Cold Wallet? Delegated Staking Explained",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -874,7 +874,7 @@
   {
    "id": "BC-009",
    "cat": "Blockchain & Tokens",
-   "title": "Consensus mechanism",
+   "title": "What Is a Consensus Mechanism?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -884,7 +884,7 @@
   {
    "id": "PAY-004",
    "cat": "DeFi & Payments",
-   "title": "Card settlement",
+   "title": "How Does Crypto Card Settlement Work?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -894,7 +894,7 @@
   {
    "id": "PAY-005",
    "cat": "DeFi & Payments",
-   "title": "Custodial vs non-custodial card",
+   "title": "Custodial vs Non-Custodial Crypto Cards: What's the Difference?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -904,7 +904,7 @@
   {
    "id": "PAY-006",
    "cat": "DeFi & Payments",
-   "title": "Card loading",
+   "title": "How Does Crypto Card Loading Work?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -914,7 +914,7 @@
   {
    "id": "PAY-007",
    "cat": "DeFi & Payments",
-   "title": "Card fees",
+   "title": "What Fees Do Crypto Debit Cards Charge?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -924,7 +924,7 @@
   {
    "id": "DFI-007",
    "cat": "DeFi & Payments",
-   "title": "DAO",
+   "title": "What Is a DAO?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -934,7 +934,7 @@
   {
    "id": "DFI-008",
    "cat": "DeFi & Payments",
-   "title": "DApp",
+   "title": "What Is a DApp?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -944,7 +944,7 @@
   {
    "id": "DFI-009",
    "cat": "DeFi & Payments",
-   "title": "Decentralized exchange",
+   "title": "What Is a Decentralized Exchange (DEX)?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -954,7 +954,7 @@
   {
    "id": "BC-010",
    "cat": "Blockchain & Tokens",
-   "title": "Decentralization",
+   "title": "What Is Decentralization?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -964,7 +964,7 @@
   {
    "id": "STK-005",
    "cat": "DeFi & Payments",
-   "title": "Delegation",
+   "title": "What Is Delegation in Staking?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -974,7 +974,7 @@
   {
    "id": "CEX-006",
    "cat": "Exchange & Chains",
-   "title": "Deposit",
+   "title": "How Does a Crypto Deposit Work?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -984,7 +984,7 @@
   {
    "id": "CEX-007",
    "cat": "Exchange & Chains",
-   "title": "Deposit confirmation time",
+   "title": "How Long Does a Crypto Deposit Take?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -994,7 +994,7 @@
   {
    "id": "KEY-009",
    "cat": "Keys & Standards",
-   "title": "Digital signature",
+   "title": "What Is a Digital Signature?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1004,7 +1004,7 @@
   {
    "id": "BIP-013",
    "cat": "Keys & Standards",
-   "title": "ENS",
+   "title": "What Is ENS (Ethereum Name Service)?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1014,7 +1014,7 @@
   {
    "id": "BIP-014",
    "cat": "Keys & Standards",
-   "title": "ERC-721",
+   "title": "What Is ERC-721?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1024,7 +1024,7 @@
   {
    "id": "CHN-011",
    "cat": "Exchange & Chains",
-   "title": "Ethereum account model",
+   "title": "How Does the Ethereum Account Model Work?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1034,7 +1034,7 @@
   {
    "id": "CEX-008",
    "cat": "Exchange & Chains",
-   "title": "Exchange insolvency",
+   "title": "What Happens When a Crypto Exchange Goes Insolvent?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1044,7 +1044,7 @@
   {
    "id": "BIP-015",
    "cat": "Keys & Standards",
-   "title": "Xpub",
+   "title": "What Is an Xpub (Extended Public Key)?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1054,7 +1054,7 @@
   {
    "id": "SEC-013",
    "cat": "Security & Threats",
-   "title": "Fake wallet app",
+   "title": "How to Spot a Fake Wallet App?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1064,7 +1064,7 @@
   {
    "id": "TXN-008",
    "cat": "Blockchain & Tokens",
-   "title": "Finality",
+   "title": "What Is Transaction Finality?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1074,7 +1074,7 @@
   {
    "id": "BC-011",
    "cat": "Blockchain & Tokens",
-   "title": "Fork",
+   "title": "What Is a Blockchain Fork?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1084,7 +1084,7 @@
   {
    "id": "TKN-007",
    "cat": "Blockchain & Tokens",
-   "title": "Fungible vs non-fungible",
+   "title": "Fungible vs Non-Fungible Tokens: What's the Difference?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1094,7 +1094,7 @@
   {
    "id": "TKN-008",
    "cat": "Blockchain & Tokens",
-   "title": "Governance token",
+   "title": "What Is a Governance Token?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1104,7 +1104,7 @@
   {
    "id": "BC-012",
    "cat": "Blockchain & Tokens",
-   "title": "Bitcoin halving",
+   "title": "What Is the Bitcoin Halving?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1114,7 +1114,7 @@
   {
    "id": "KEY-010",
    "cat": "Keys & Standards",
-   "title": "Hash function",
+   "title": "What Is a Hash Function?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1124,7 +1124,7 @@
   {
    "id": "KEY-011",
    "cat": "Keys & Standards",
-   "title": "Hidden wallet",
+   "title": "What Is a Hidden Wallet (Passphrase Wallet)?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1134,7 +1134,7 @@
   {
    "id": "SEC-014",
    "cat": "Security & Threats",
-   "title": "Honeypot token",
+   "title": "What Is a Honeypot Token?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1144,7 +1144,7 @@
   {
    "id": "BC-013",
    "cat": "Blockchain & Tokens",
-   "title": "Immutability",
+   "title": "What Does Immutability Mean in Blockchain?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1154,7 +1154,7 @@
   {
    "id": "SEC-015",
    "cat": "Security & Threats",
-   "title": "Support impersonation",
+   "title": "What Is a Support Impersonation Scam?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1164,7 +1164,7 @@
   {
    "id": "KEY-012",
    "cat": "Keys & Standards",
-   "title": "Public key cannot derive private key",
+   "title": "Why Can't a Public Key Reveal Your Private Key?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1174,7 +1174,7 @@
   {
    "id": "KEY-013",
    "cat": "Keys & Standards",
-   "title": "Keystore / JSON wallet",
+   "title": "What Is a Keystore (JSON) Wallet File?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1184,7 +1184,7 @@
   {
    "id": "STK-006",
    "cat": "DeFi & Payments",
-   "title": "Liquid staking token",
+   "title": "What Is a Liquid Staking Token (LST)?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1194,7 +1194,7 @@
   {
    "id": "CHN-012",
    "cat": "Exchange & Chains",
-   "title": "Layer 1",
+   "title": "What Is a Layer 1 Blockchain?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1204,7 +1204,7 @@
   {
    "id": "CHN-013",
    "cat": "Exchange & Chains",
-   "title": "Arbitrum / Optimism",
+   "title": "What Are Arbitrum and Optimism?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1214,7 +1214,7 @@
   {
    "id": "PAY-008",
    "cat": "DeFi & Payments",
-   "title": "Lightning network",
+   "title": "What Is the Lightning Network?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1224,7 +1224,7 @@
   {
    "id": "STK-007",
    "cat": "DeFi & Payments",
-   "title": "Liquid staking",
+   "title": "What Is Liquid Staking?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1234,7 +1234,7 @@
   {
    "id": "DFI-010",
    "cat": "DeFi & Payments",
-   "title": "Liquidation",
+   "title": "What Is Liquidation in Crypto?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1244,7 +1244,7 @@
   {
    "id": "DFI-011",
    "cat": "DeFi & Payments",
-   "title": "Liquidity pool",
+   "title": "What Is a Liquidity Pool?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1254,7 +1254,7 @@
   {
    "id": "TXN-009",
    "cat": "Blockchain & Tokens",
-   "title": "Maximal extractable value",
+   "title": "What Is MEV (Maximal Extractable Value)?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1264,7 +1264,7 @@
   {
    "id": "SEC-016",
    "cat": "Security & Threats",
-   "title": "Malicious browser extension",
+   "title": "How Do Malicious Browser Extensions Steal Crypto?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1274,7 +1274,7 @@
   {
    "id": "SEC-017",
    "cat": "Security & Threats",
-   "title": "Crypto malware",
+   "title": "What Is Crypto Malware and How Does It Work?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1284,7 +1284,7 @@
   {
    "id": "TKN-009",
    "cat": "Blockchain & Tokens",
-   "title": "Memecoin",
+   "title": "What Is a Memecoin?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1294,7 +1294,7 @@
   {
    "id": "TXN-010",
    "cat": "Blockchain & Tokens",
-   "title": "Mempool",
+   "title": "What Is the Mempool?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1304,7 +1304,7 @@
   {
    "id": "PAY-009",
    "cat": "DeFi & Payments",
-   "title": "Crypto payment gateway",
+   "title": "What Is a Crypto Payment Gateway?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1314,7 +1314,7 @@
   {
    "id": "KEY-014",
    "cat": "Keys & Standards",
-   "title": "Message signing",
+   "title": "What Is Message Signing?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1324,7 +1324,7 @@
   {
    "id": "KEY-015",
    "cat": "Keys & Standards",
-   "title": "Metal backup",
+   "title": "What Is a Metal Seed Phrase Backup?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1334,7 +1334,7 @@
   {
    "id": "KEY-016",
    "cat": "Keys & Standards",
-   "title": "Multisignature",
+   "title": "What Is a Multisignature (Multisig) Wallet?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1344,7 +1344,7 @@
   {
    "id": "KEY-017",
    "cat": "Keys & Standards",
-   "title": "2-of-3 multisig",
+   "title": "How Does a 2-of-3 Multisig Setup Work?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1354,7 +1354,7 @@
   {
    "id": "TKN-010",
    "cat": "Blockchain & Tokens",
-   "title": "NFT",
+   "title": "What Is an NFT?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1364,7 +1364,7 @@
   {
    "id": "TXN-011",
    "cat": "Blockchain & Tokens",
-   "title": "Network fee",
+   "title": "What Is a Network Fee?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1374,7 +1374,7 @@
   {
    "id": "BC-014",
    "cat": "Blockchain & Tokens",
-   "title": "Node",
+   "title": "What Is a Blockchain Node?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1384,7 +1384,7 @@
   {
    "id": "TXN-012",
    "cat": "Blockchain & Tokens",
-   "title": "Nonce",
+   "title": "What Is a Nonce in Crypto Transactions?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1394,7 +1394,7 @@
   {
    "id": "BIP-016",
    "cat": "Keys & Standards",
-   "title": "ERC-2612 permit",
+   "title": "What Is an ERC-2612 Permit Signature?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1404,7 +1404,7 @@
   {
    "id": "DFI-012",
    "cat": "DeFi & Payments",
-   "title": "Perpetual futures",
+   "title": "What Are Perpetual Futures?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1414,7 +1414,7 @@
   {
    "id": "PAY-010",
    "cat": "DeFi & Payments",
-   "title": "Prediction market",
+   "title": "What Is Prediction market?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1424,7 +1424,7 @@
   {
    "id": "PAY-011",
    "cat": "DeFi & Payments",
-   "title": "Decentralized prediction market",
+   "title": "What Is Decentralized prediction market?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1434,7 +1434,7 @@
   {
    "id": "BIP-017",
    "cat": "Keys & Standards",
-   "title": "RWA tokenization",
+   "title": "What Is RWA (Real-World Asset) Tokenization?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1444,7 +1444,7 @@
   {
    "id": "PAY-012",
    "cat": "DeFi & Payments",
-   "title": "Crypto remittance",
+   "title": "What Is Crypto remittance?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1454,7 +1454,7 @@
   {
    "id": "STK-008",
    "cat": "DeFi & Payments",
-   "title": "Staking rewards",
+   "title": "How Do Staking Rewards Work?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1464,7 +1464,7 @@
   {
    "id": "SEC-018",
    "cat": "Security & Threats",
-   "title": "Rug pull",
+   "title": "What Is a Rug Pull?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1474,7 +1474,7 @@
   {
    "id": "SEC-019",
    "cat": "Security & Threats",
-   "title": "SIM swap",
+   "title": "What Is a SIM Swap Attack?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1484,7 +1484,7 @@
   {
    "id": "CHN-014",
    "cat": "Exchange & Chains",
-   "title": "Solana rent",
+   "title": "What Is Solana Rent?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1494,7 +1494,7 @@
   {
    "id": "CHN-015",
    "cat": "Exchange & Chains",
-   "title": "Associated Token Account",
+   "title": "What Is an Associated Token Account (Solana)?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1504,7 +1504,7 @@
   {
    "id": "KEY-018",
    "cat": "Keys & Standards",
-   "title": "Seed phrase vs private key",
+   "title": "Seed Phrase vs Private Key: What's the Difference?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1514,7 +1514,7 @@
   {
    "id": "DFI-013",
    "cat": "DeFi & Payments",
-   "title": "Slippage",
+   "title": "What Is Slippage?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1524,7 +1524,7 @@
   {
    "id": "BIP-018",
    "cat": "Keys & Standards",
-   "title": "Smart contract wallet",
+   "title": "What Is a Smart Contract Wallet?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1534,7 +1534,7 @@
   {
    "id": "SEC-020",
    "cat": "Security & Threats",
-   "title": "Social engineering",
+   "title": "What Is Social Engineering in Crypto?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1544,7 +1544,7 @@
   {
    "id": "TKN-011",
    "cat": "Blockchain & Tokens",
-   "title": "Stablecoin depeg",
+   "title": "What Is a Stablecoin Depeg?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1554,7 +1554,7 @@
   {
    "id": "PAY-013",
    "cat": "DeFi & Payments",
-   "title": "Stablecoin issuer (Circle/Tether)",
+   "title": "What Is Stablecoin issuer (Circle/Tether)?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1564,7 +1564,7 @@
   {
    "id": "PAY-014",
    "cat": "DeFi & Payments",
-   "title": "Settlement finality",
+   "title": "What Is Settlement finality?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1574,7 +1574,7 @@
   {
    "id": "DFI-014",
    "cat": "DeFi & Payments",
-   "title": "Stablecoin yield",
+   "title": "How Does Stablecoin Yield Work?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1584,7 +1584,7 @@
   {
    "id": "STK-009",
    "cat": "DeFi & Payments",
-   "title": "Staking pool",
+   "title": "What Is a Staking Pool?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1594,7 +1594,7 @@
   {
    "id": "TXN-013",
    "cat": "Blockchain & Tokens",
-   "title": "Stuck / pending transaction",
+   "title": "Why Is My Transaction Stuck or Pending?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1604,7 +1604,7 @@
   {
    "id": "CHN-016",
    "cat": "Exchange & Chains",
-   "title": "TRON energy & bandwidth",
+   "title": "What Are TRON Energy and Bandwidth?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1614,7 +1614,7 @@
   {
    "id": "TKN-012",
    "cat": "Blockchain & Tokens",
-   "title": "Token",
+   "title": "What Is a Token in Crypto?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1624,7 +1624,7 @@
   {
    "id": "TKN-013",
    "cat": "Blockchain & Tokens",
-   "title": "Tokenomics",
+   "title": "What Is Tokenomics?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1634,7 +1634,7 @@
   {
    "id": "TXN-014",
    "cat": "Blockchain & Tokens",
-   "title": "UTXO",
+   "title": "What Is a UTXO?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1644,7 +1644,7 @@
   {
    "id": "STK-010",
    "cat": "DeFi & Payments",
-   "title": "Unbonding period",
+   "title": "What Is an Unbonding Period?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1654,7 +1654,7 @@
   {
    "id": "STK-011",
    "cat": "DeFi & Payments",
-   "title": "Validator",
+   "title": "What Is a Validator?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1664,7 +1664,7 @@
   {
    "id": "KEY-019",
    "cat": "Keys & Standards",
-   "title": "Wallet PIN",
+   "title": "What Does a Wallet PIN Protect?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1674,7 +1674,7 @@
   {
    "id": "DFI-015",
    "cat": "DeFi & Payments",
-   "title": "WalletConnect",
+   "title": "What Is WalletConnect?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1684,7 +1684,7 @@
   {
    "id": "KEY-020",
    "cat": "Keys & Standards",
-   "title": "Watch-only wallet",
+   "title": "What Is a Watch-Only Wallet?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1694,7 +1694,7 @@
   {
    "id": "TKN-014",
    "cat": "Blockchain & Tokens",
-   "title": "Wrapped token",
+   "title": "What Is a Wrapped Token?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1704,7 +1704,7 @@
   {
    "id": "CHN-017",
    "cat": "Exchange & Chains",
-   "title": "XLM minimum balance",
+   "title": "What Is the XLM Minimum Balance?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1714,7 +1714,7 @@
   {
    "id": "CHN-018",
    "cat": "Exchange & Chains",
-   "title": "XRP account activation",
+   "title": "What Is XRP Account Activation?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1724,7 +1724,7 @@
   {
    "id": "CHN-019",
    "cat": "Exchange & Chains",
-   "title": "Zk-rollup",
+   "title": "What Is a zk-Rollup?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1734,7 +1734,7 @@
   {
    "id": "DFI-016",
    "cat": "DeFi & Payments",
-   "title": "Layer 2 / rollup",
+   "title": "What Is Layer 2 / rollup?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1744,7 +1744,7 @@
   {
    "id": "DFI-017",
    "cat": "DeFi & Payments",
-   "title": "Crypto swap",
+   "title": "What Is Crypto swap?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1754,7 +1754,7 @@
   {
    "id": "DFI-018",
    "cat": "DeFi & Payments",
-   "title": "Yield-bearing token",
+   "title": "What Is Yield-bearing token?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1764,7 +1764,7 @@
   {
    "id": "SEC-022",
    "cat": "Security & Threats",
-   "title": "51% attack",
+   "title": "What Is a 51% Attack?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1774,7 +1774,7 @@
   {
    "id": "CHN-020",
    "cat": "Exchange & Chains",
-   "title": "Cardano eUTXO",
+   "title": "What Is Cardano eUTXO?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1784,7 +1784,7 @@
   {
    "id": "DFI-019",
    "cat": "DeFi & Payments",
-   "title": "Automated market maker",
+   "title": "What Is Automated market maker?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1794,7 +1794,7 @@
   {
    "id": "CHN-021",
    "cat": "Exchange & Chains",
-   "title": "Cosmos IBC",
+   "title": "What Is Cosmos IBC?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1804,7 +1804,7 @@
   {
    "id": "CHN-022",
    "cat": "Exchange & Chains",
-   "title": "Avalanche subnet",
+   "title": "What Is Avalanche subnet?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1814,7 +1814,7 @@
   {
    "id": "KEY-021",
    "cat": "Keys & Standards",
-   "title": "Address checksum (EIP-55)",
+   "title": "What Is an Address Checksum (EIP-55)?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1824,7 +1824,7 @@
   {
    "id": "CHN-023",
    "cat": "Exchange & Chains",
-   "title": "Named addresses",
+   "title": "What Are Named addresses?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1834,7 +1834,7 @@
   {
    "id": "KEY-022",
    "cat": "Keys & Standards",
-   "title": "Address reuse",
+   "title": "Why Is Address Reuse a Privacy Risk?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1844,7 +1844,7 @@
   {
    "id": "DFI-020",
    "cat": "DeFi & Payments",
-   "title": "DEX aggregator",
+   "title": "What Is DEX aggregator?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1854,7 +1854,7 @@
   {
    "id": "TKN-015",
    "cat": "Blockchain & Tokens",
-   "title": "Airdrop farming",
+   "title": "What Is Airdrop farming?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1864,7 +1864,7 @@
   {
    "id": "TKN-016",
    "cat": "Blockchain & Tokens",
-   "title": "Altcoin",
+   "title": "What Is Altcoin?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1874,7 +1874,7 @@
   {
    "id": "BIP-019",
    "cat": "Keys & Standards",
-   "title": "BIP-322",
+   "title": "What Is BIP-322 Message Signing?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1884,7 +1884,7 @@
   {
    "id": "BIP-020",
    "cat": "Keys & Standards",
-   "title": "BRC-20",
+   "title": "What Is BRC-20?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1894,7 +1894,7 @@
   {
    "id": "CHN-024",
    "cat": "Exchange & Chains",
-   "title": "RBF",
+   "title": "What Is RBF?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1904,7 +1904,7 @@
   {
    "id": "CHN-025",
    "cat": "Exchange & Chains",
-   "title": "Satoshi",
+   "title": "What Is Satoshi?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1914,7 +1914,7 @@
   {
    "id": "CHN-026",
    "cat": "Exchange & Chains",
-   "title": "Difficulty adjustment",
+   "title": "What Is Difficulty adjustment?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1924,7 +1924,7 @@
   {
    "id": "CHN-027",
    "cat": "Exchange & Chains",
-   "title": "OP_RETURN",
+   "title": "What Is OP_RETURN?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1934,7 +1934,7 @@
   {
    "id": "TXN-015",
    "cat": "Blockchain & Tokens",
-   "title": "Transaction batching",
+   "title": "What Is Transaction batching?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1944,7 +1944,7 @@
   {
    "id": "BC-015",
    "cat": "Blockchain & Tokens",
-   "title": "Block height",
+   "title": "What Is Block height?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1954,7 +1954,7 @@
   {
    "id": "BC-016",
    "cat": "Blockchain & Tokens",
-   "title": "Block time",
+   "title": "What Is Block time?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1964,7 +1964,7 @@
   {
    "id": "KEY-023",
    "cat": "Keys & Standards",
-   "title": "Brain wallet",
+   "title": "What Is a Brain Wallet and Why Is It Dangerous?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1974,7 +1974,7 @@
   {
    "id": "KEY-024",
    "cat": "Keys & Standards",
-   "title": "Burn address",
+   "title": "What Is a Burn Address?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1984,7 +1984,7 @@
   {
    "id": "TXN-016",
    "cat": "Blockchain & Tokens",
-   "title": "Child-pays-for-parent",
+   "title": "What Is Child-pays-for-parent?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -1994,7 +1994,7 @@
   {
    "id": "DFI-021",
    "cat": "DeFi & Payments",
-   "title": "Collateral ratio / LTV",
+   "title": "What Is Collateral ratio / LTV?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2004,7 +2004,7 @@
   {
    "id": "STK-012",
    "cat": "DeFi & Payments",
-   "title": "Validator commission",
+   "title": "What Is Validator commission?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2014,7 +2014,7 @@
   {
    "id": "PAY-015",
    "cat": "DeFi & Payments",
-   "title": "Virtual vs physical card",
+   "title": "Virtual vs physical card: What's the Difference?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2024,7 +2024,7 @@
   {
    "id": "PAY-016",
    "cat": "DeFi & Payments",
-   "title": "Card cashback",
+   "title": "What Is Card cashback?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2034,7 +2034,7 @@
   {
    "id": "PAY-017",
    "cat": "DeFi & Payments",
-   "title": "Chargeback",
+   "title": "What Is Chargeback?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2044,7 +2044,7 @@
   {
    "id": "PAY-018",
    "cat": "DeFi & Payments",
-   "title": "Card KYC",
+   "title": "What Is Card KYC?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2054,7 +2054,7 @@
   {
    "id": "CHN-028",
    "cat": "Exchange & Chains",
-   "title": "Polkadot parachain",
+   "title": "What Is Polkadot parachain?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2064,7 +2064,7 @@
   {
    "id": "CHN-029",
    "cat": "Exchange & Chains",
-   "title": "Dogecoin (DOGE)",
+   "title": "What Is Dogecoin (DOGE)?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2074,7 +2074,7 @@
   {
    "id": "TXN-017",
    "cat": "Blockchain & Tokens",
-   "title": "Double spend",
+   "title": "What Is Double spend?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2084,7 +2084,7 @@
   {
    "id": "TXN-018",
    "cat": "Blockchain & Tokens",
-   "title": "Dust limit",
+   "title": "What Is Dust limit?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2094,7 +2094,7 @@
   {
    "id": "KEY-025",
    "cat": "Keys & Standards",
-   "title": "ECDSA / secp256k1",
+   "title": "What Is ECDSA (secp256k1)?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2104,7 +2104,7 @@
   {
    "id": "BIP-021",
    "cat": "Keys & Standards",
-   "title": "EIP-712",
+   "title": "What Is EIP-712 Typed Data Signing?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2114,7 +2114,7 @@
   {
    "id": "BIP-022",
    "cat": "Keys & Standards",
-   "title": "Externally owned account",
+   "title": "What Is an Externally Owned Account (EOA)?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2124,7 +2124,7 @@
   {
    "id": "BIP-023",
    "cat": "Keys & Standards",
-   "title": "ERC-1155",
+   "title": "What Is ERC-1155?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2134,7 +2134,7 @@
   {
    "id": "CHN-030",
    "cat": "Exchange & Chains",
-   "title": "EIP-1559",
+   "title": "What Is EIP-1559?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2144,7 +2144,7 @@
   {
    "id": "CHN-031",
    "cat": "Exchange & Chains",
-   "title": "The merge",
+   "title": "What Is The merge?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2154,7 +2154,7 @@
   {
    "id": "CHN-032",
    "cat": "Exchange & Chains",
-   "title": "Gas burn (EIP-1559)",
+   "title": "What Is Gas burn (EIP-1559)?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2164,7 +2164,7 @@
   {
    "id": "KEY-026",
    "cat": "Keys & Standards",
-   "title": "EdDSA / ed25519",
+   "title": "What Is EdDSA (ed25519)?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2174,7 +2174,7 @@
   {
    "id": "SEC-023",
    "cat": "Security & Threats",
-   "title": "Evil maid attack",
+   "title": "What Is an Evil Maid Attack?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2184,7 +2184,7 @@
   {
    "id": "BC-017",
    "cat": "Blockchain & Tokens",
-   "title": "Faucet",
+   "title": "What Is Faucet?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2194,7 +2194,7 @@
   {
    "id": "CEX-009",
    "cat": "Exchange & Chains",
-   "title": "Fiat gateway",
+   "title": "What Is Fiat gateway?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2204,7 +2204,7 @@
   {
    "id": "DFI-022",
    "cat": "DeFi & Payments",
-   "title": "Flash loan",
+   "title": "What Is Flash loan?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2214,7 +2214,7 @@
   {
    "id": "DFI-023",
    "cat": "DeFi & Payments",
-   "title": "GameFi",
+   "title": "What Is GameFi?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2224,7 +2224,7 @@
   {
    "id": "TXN-019",
    "cat": "Blockchain & Tokens",
-   "title": "Gas estimation",
+   "title": "What Is Gas estimation?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2234,7 +2234,7 @@
   {
    "id": "TXN-020",
    "cat": "Blockchain & Tokens",
-   "title": "Gas limit",
+   "title": "What Is Gas limit?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2244,7 +2244,7 @@
   {
    "id": "DFI-024",
    "cat": "DeFi & Payments",
-   "title": "Paymaster / gas sponsorship",
+   "title": "What Is Paymaster / gas sponsorship?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2254,7 +2254,7 @@
   {
    "id": "BC-018",
    "cat": "Blockchain & Tokens",
-   "title": "Genesis block",
+   "title": "What Is Genesis block?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2264,7 +2264,7 @@
   {
    "id": "DFI-025",
    "cat": "DeFi & Payments",
-   "title": "On-chain governance",
+   "title": "What Is On-chain governance?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2274,7 +2274,7 @@
   {
    "id": "TXN-021",
    "cat": "Blockchain & Tokens",
-   "title": "Gwei",
+   "title": "What Is Gwei?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2284,7 +2284,7 @@
   {
    "id": "CHN-033",
    "cat": "Exchange & Chains",
-   "title": "Hedera (HBAR)",
+   "title": "What Is Hedera (HBAR)?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2294,7 +2294,7 @@
   {
    "id": "TKN-017",
    "cat": "Blockchain & Tokens",
-   "title": "ICO / IEO / IDO",
+   "title": "What Is ICO / IEO / IDO?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2304,7 +2304,7 @@
   {
    "id": "DFI-026",
    "cat": "DeFi & Payments",
-   "title": "Impermanent loss",
+   "title": "What Are Impermanent loss?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2314,7 +2314,7 @@
   {
    "id": "DFI-027",
    "cat": "DeFi & Payments",
-   "title": "Intent-based trading",
+   "title": "What Is Intent-based trading?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2324,7 +2324,7 @@
   {
    "id": "CEX-010",
    "cat": "Exchange & Chains",
-   "title": "Exchange internal transfer",
+   "title": "What Is Exchange internal transfer?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2334,7 +2334,7 @@
   {
    "id": "CEX-011",
    "cat": "Exchange & Chains",
-   "title": "KYC / AML",
+   "title": "What Is KYC / AML?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2344,7 +2344,7 @@
   {
    "id": "TKN-018",
    "cat": "Blockchain & Tokens",
-   "title": "Liquidity provider token",
+   "title": "What Is Liquidity provider token?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2354,7 +2354,7 @@
   {
    "id": "CHN-034",
    "cat": "Exchange & Chains",
-   "title": "Base",
+   "title": "What Is Base?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2364,7 +2364,7 @@
   {
    "id": "BC-019",
    "cat": "Blockchain & Tokens",
-   "title": "Distributed ledger",
+   "title": "What Is Distributed ledger?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2374,7 +2374,7 @@
   {
    "id": "DFI-028",
    "cat": "DeFi & Payments",
-   "title": "Crypto lending",
+   "title": "What Is Crypto lending?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2384,7 +2384,7 @@
   {
    "id": "DFI-029",
    "cat": "DeFi & Payments",
-   "title": "Leverage",
+   "title": "What Is Leverage?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2394,7 +2394,7 @@
   {
    "id": "CHN-035",
    "cat": "Exchange & Chains",
-   "title": "Litecoin (LTC)",
+   "title": "What Is Litecoin (LTC)?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2404,7 +2404,7 @@
   {
    "id": "TKN-019",
    "cat": "Blockchain & Tokens",
-   "title": "Market cap vs FDV",
+   "title": "Market cap vs FDV: What's the Difference?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2414,7 +2414,7 @@
   {
    "id": "PAY-019",
    "cat": "DeFi & Payments",
-   "title": "Point of sale crypto",
+   "title": "What Is Point of sale crypto?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2424,7 +2424,7 @@
   {
    "id": "BC-020",
    "cat": "Blockchain & Tokens",
-   "title": "Merkle tree",
+   "title": "What Is Merkle tree?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2434,7 +2434,7 @@
   {
    "id": "DFI-030",
    "cat": "DeFi & Payments",
-   "title": "Meta-transaction",
+   "title": "What Is Meta-transaction?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2444,7 +2444,7 @@
   {
    "id": "CEX-012",
    "cat": "Exchange & Chains",
-   "title": "Minimum withdrawal",
+   "title": "What Is Minimum withdrawal?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2454,7 +2454,7 @@
   {
    "id": "BC-021",
    "cat": "Blockchain & Tokens",
-   "title": "Mining",
+   "title": "What Is Mining?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2464,7 +2464,7 @@
   {
    "id": "CHN-036",
    "cat": "Exchange & Chains",
-   "title": "Aptos / Sui (Move)",
+   "title": "What Is Aptos / Sui (Move)?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2474,7 +2474,7 @@
   {
    "id": "TKN-020",
    "cat": "Blockchain & Tokens",
-   "title": "NFT minting",
+   "title": "What Is NFT minting?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2484,7 +2484,7 @@
   {
    "id": "BC-022",
    "cat": "Blockchain & Tokens",
-   "title": "Network congestion",
+   "title": "What Is Network congestion?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2494,7 +2494,7 @@
   {
    "id": "TXN-022",
    "cat": "Blockchain & Tokens",
-   "title": "Nonce gap",
+   "title": "What Is Nonce gap?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2504,7 +2504,7 @@
   {
    "id": "CEX-013",
    "cat": "Exchange & Chains",
-   "title": "Over-the-counter (OTC)",
+   "title": "What Is Over-the-counter (OTC)?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2514,7 +2514,7 @@
   {
    "id": "PAY-020",
    "cat": "DeFi & Payments",
-   "title": "On-chain invoice",
+   "title": "What Is On-chain invoice?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2524,7 +2524,7 @@
   {
    "id": "DFI-031",
    "cat": "DeFi & Payments",
-   "title": "Oracle",
+   "title": "What Is Oracle?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2534,7 +2534,7 @@
   {
    "id": "CEX-014",
    "cat": "Exchange & Chains",
-   "title": "Order book",
+   "title": "What Is Order book?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2544,7 +2544,7 @@
   {
    "id": "CEX-015",
    "cat": "Exchange & Chains",
-   "title": "Limit vs market order",
+   "title": "Limit vs market order: What's the Difference?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2554,7 +2554,7 @@
   {
    "id": "BIP-024",
    "cat": "Keys & Standards",
-   "title": "Ordinals / inscriptions",
+   "title": "What Are Bitcoin Ordinals and Inscriptions?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2564,7 +2564,7 @@
   {
    "id": "BIP-025",
    "cat": "Keys & Standards",
-   "title": "PSBT",
+   "title": "What Is a PSBT (Partially Signed Bitcoin Transaction)?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2574,7 +2574,7 @@
   {
    "id": "SEC-024",
    "cat": "Security & Threats",
-   "title": "Passkey",
+   "title": "What Is a Passkey and Can It Protect Crypto?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2584,7 +2584,7 @@
   {
    "id": "PAY-021",
    "cat": "DeFi & Payments",
-   "title": "Payment channel",
+   "title": "What Is Payment channel?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2594,7 +2594,7 @@
   {
    "id": "PAY-022",
    "cat": "DeFi & Payments",
-   "title": "Payment request QR (BIP21)",
+   "title": "What Is Payment request QR (BIP21)?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2604,7 +2604,7 @@
   {
    "id": "PAY-023",
    "cat": "DeFi & Payments",
-   "title": "Outcome shares",
+   "title": "What Are Outcome shares?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2614,7 +2614,7 @@
   {
    "id": "PAY-024",
    "cat": "DeFi & Payments",
-   "title": "Oracle resolution",
+   "title": "What Is Oracle resolution?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2624,7 +2624,7 @@
   {
    "id": "PAY-025",
    "cat": "DeFi & Payments",
-   "title": "Prediction market liquidity",
+   "title": "What Is Prediction market liquidity?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2634,7 +2634,7 @@
   {
    "id": "TXN-023",
    "cat": "Blockchain & Tokens",
-   "title": "Priority fee / tip",
+   "title": "What Is Priority fee / tip?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2644,7 +2644,7 @@
   {
    "id": "BC-023",
    "cat": "Blockchain & Tokens",
-   "title": "Coin control",
+   "title": "What Is Coin control?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2654,7 +2654,7 @@
   {
    "id": "DFI-032",
    "cat": "DeFi & Payments",
-   "title": "Proof of reserves",
+   "title": "What Are Proof of reserves?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2664,7 +2664,7 @@
   {
    "id": "STK-013",
    "cat": "DeFi & Payments",
-   "title": "Proof of work",
+   "title": "What Is Proof of work?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2674,7 +2674,7 @@
   {
    "id": "SEC-025",
    "cat": "Security & Threats",
-   "title": "Pump and dump",
+   "title": "What Is a Pump and Dump Scheme?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2684,7 +2684,7 @@
   {
    "id": "BC-024",
    "cat": "Blockchain & Tokens",
-   "title": "RPC node / endpoint",
+   "title": "What Is RPC node / endpoint?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2694,7 +2694,7 @@
   {
    "id": "PAY-026",
    "cat": "DeFi & Payments",
-   "title": "Crypto subscription",
+   "title": "What Is Crypto subscription?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2704,7 +2704,7 @@
   {
    "id": "TXN-024",
    "cat": "Blockchain & Tokens",
-   "title": "Chain reorganization",
+   "title": "What Is Chain reorganization?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2714,7 +2714,7 @@
   {
    "id": "TXN-025",
    "cat": "Blockchain & Tokens",
-   "title": "Replay attack",
+   "title": "What Is Replay attack?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2724,7 +2724,7 @@
   {
    "id": "STK-014",
    "cat": "DeFi & Payments",
-   "title": "Restaking",
+   "title": "What Is Restaking?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2734,7 +2734,7 @@
   {
    "id": "DFI-033",
    "cat": "DeFi & Payments",
-   "title": "Liquid staking in DeFi",
+   "title": "What Is Liquid staking in DeFi?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2744,7 +2744,7 @@
   {
    "id": "BIP-026",
    "cat": "Keys & Standards",
-   "title": "Runes",
+   "title": "What Is the Bitcoin Runes Protocol?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2754,7 +2754,7 @@
   {
    "id": "BIP-027",
    "cat": "Keys & Standards",
-   "title": "SLIP-44",
+   "title": "What Is SLIP-44?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2764,7 +2764,7 @@
   {
    "id": "CHN-037",
    "cat": "Exchange & Chains",
-   "title": "Slot and epoch",
+   "title": "What Is Slot and epoch?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2774,7 +2774,7 @@
   {
    "id": "CHN-038",
    "cat": "Exchange & Chains",
-   "title": "Solana priority fee",
+   "title": "What Is Solana priority fee?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2784,7 +2784,7 @@
   {
    "id": "TKN-021",
    "cat": "Blockchain & Tokens",
-   "title": "Security vs utility token",
+   "title": "Security vs utility token: What's the Difference?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2794,7 +2794,7 @@
   {
    "id": "SEC-026",
    "cat": "Security & Threats",
-   "title": "Side-channel attack",
+   "title": "What Is a Side-Channel Attack?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2804,7 +2804,7 @@
   {
    "id": "STK-015",
    "cat": "DeFi & Payments",
-   "title": "Slashing",
+   "title": "What Is Slashing?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2814,7 +2814,7 @@
   {
    "id": "SEC-027",
    "cat": "Security & Threats",
-   "title": "Smishing",
+   "title": "What Is Smishing (SMS Phishing)?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2824,7 +2824,7 @@
   {
    "id": "TKN-022",
    "cat": "Blockchain & Tokens",
-   "title": "Soulbound token (SBT)",
+   "title": "What Is Soulbound token (SBT)?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2834,7 +2834,7 @@
   {
    "id": "PAY-027",
    "cat": "DeFi & Payments",
-   "title": "Merchant stablecoin (PYUSD)",
+   "title": "What Is Merchant stablecoin (PYUSD)?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2844,7 +2844,7 @@
   {
    "id": "PAY-028",
    "cat": "DeFi & Payments",
-   "title": "Stablecoin regulation (MiCA)",
+   "title": "What Is Stablecoin regulation (MiCA)?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2854,7 +2854,7 @@
   {
    "id": "TKN-023",
    "cat": "Blockchain & Tokens",
-   "title": "Circulating vs total vs max supply",
+   "title": "Circulating vs total vs max supply: What's the Difference?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2864,7 +2864,7 @@
   {
    "id": "CHN-039",
    "cat": "Exchange & Chains",
-   "title": "TRON super representative",
+   "title": "What Is TRON super representative?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2874,7 +2874,7 @@
   {
    "id": "DFI-034",
    "cat": "DeFi & Payments",
-   "title": "Total value locked",
+   "title": "What Is Total value locked?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2884,7 +2884,7 @@
   {
    "id": "BC-025",
    "cat": "Blockchain & Tokens",
-   "title": "Testnet vs mainnet",
+   "title": "Testnet vs mainnet: What's the Difference?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2894,7 +2894,7 @@
   {
    "id": "TKN-024",
    "cat": "Blockchain & Tokens",
-   "title": "Token burn",
+   "title": "What Is Token burn?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2904,7 +2904,7 @@
   {
    "id": "TXN-026",
    "cat": "Blockchain & Tokens",
-   "title": "Transaction broadcast",
+   "title": "What Is Transaction broadcast?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2914,7 +2914,7 @@
   {
    "id": "CEX-016",
    "cat": "Exchange & Chains",
-   "title": "Travel rule",
+   "title": "What Is Travel rule?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2924,7 +2924,7 @@
   {
    "id": "PAY-029",
    "cat": "DeFi & Payments",
-   "title": "Medium of exchange vs store of value",
+   "title": "Medium of exchange vs store of value: What's the Difference?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2934,7 +2934,7 @@
   {
    "id": "STK-016",
    "cat": "DeFi & Payments",
-   "title": "Validator uptime",
+   "title": "What Is Validator uptime?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2944,7 +2944,7 @@
   {
    "id": "KEY-027",
    "cat": "Keys & Standards",
-   "title": "Vanity address",
+   "title": "What Is a Vanity Address?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2954,7 +2954,7 @@
   {
    "id": "DFI-035",
    "cat": "DeFi & Payments",
-   "title": "Yield vault",
+   "title": "What Is Yield vault?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2964,7 +2964,7 @@
   {
    "id": "TKN-025",
    "cat": "Blockchain & Tokens",
-   "title": "Wrapped bitcoin (WBTC)",
+   "title": "What Is Wrapped bitcoin (WBTC)?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2974,7 +2974,7 @@
   {
    "id": "CHN-040",
    "cat": "Exchange & Chains",
-   "title": "XRPL DEX",
+   "title": "What Is XRPL DEX?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2984,7 +2984,7 @@
   {
    "id": "CHN-041",
    "cat": "Exchange & Chains",
-   "title": "XRP escrow",
+   "title": "What Is XRP escrow?",
    "status": "reserve",
    "geo": null,
    "url": "",
@@ -2994,7 +2994,7 @@
   {
    "id": "DFI-036",
    "cat": "DeFi & Payments",
-   "title": "Yield farming",
+   "title": "What Is Yield farming?",
    "status": "reserve",
    "geo": null,
    "url": "",
