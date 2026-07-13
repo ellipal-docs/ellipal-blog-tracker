@@ -53,6 +53,9 @@ tr:hover td{background:#FAFAF8;}
 .write-btn{font-size:11px;padding:2px 8px;border:1px solid #E0DED8;border-radius:5px;background:#fff;cursor:pointer;margin-top:3px;display:block;color:#1a1a1a;}
 .write-btn:hover{background:#F0EFEB;}
 .geo-val{font-weight:700;color:#1254A0;}
+.comp-badge{display:inline-flex;align-items:center;justify-content:center;width:20px;height:20px;border-radius:5px;background:#1a1a1a;color:#fff;font-size:10px;font-weight:700;text-decoration:none;margin-right:3px;}
+.comp-badge:hover{background:#3B82F6;}
+.comp-badge.g{background:#8B8B8B;}
 .footer{text-align:center;padding:20px;font-size:11px;color:#bbb;}
 @media(max-width:900px){.stats{grid-template-columns:repeat(3,1fr);}}
 </style>
@@ -127,6 +130,7 @@ tr:hover td{background:#FAFAF8;}
         <th style="width:40px">Pri</th>
         <th style="width:76px">Status</th>
         <th style="width:42px">GEO</th>
+        <th style="width:58px">Trezor</th>
         <th style="width:160px">Published URL</th>
         <th style="width:76px">Difficulty</th>
       </tr></thead>
@@ -148,7 +152,7 @@ async function fetchData(){
     BASE=d.articles;
     if(d.updated){document.getElementById('updated-time').textContent='Data updated: '+d.updated;}
   }catch(e){
-    document.getElementById('tbody').innerHTML='<tr><td colspan="8" style="padding:2rem;text-align:center;color:#c00">Failed to load data.json — check deployment</td></tr>';
+    document.getElementById('tbody').innerHTML='<tr><td colspan="9" style="padding:2rem;text-align:center;color:#c00">Failed to load data.json — check deployment</td></tr>';
   }
 }
 let overrides={};
@@ -192,6 +196,14 @@ const DM={beginner:{l:'Beginner',d:'d-b',t:'diff-b'},medium:{l:'Medium',d:'d-m',
 const PO={'高':0,'中':1,'低':2};
 function catTag(cat){const c=CC[cat]||'#888';const s=CS[cat]||cat;return`<span style="display:inline-flex;align-items:center;gap:4px;font-size:10px;padding:2px 7px;border-radius:5px;background:${c}18;color:${c};font-weight:600"><span style="width:6px;height:6px;border-radius:50%;background:${c};flex-shrink:0;display:inline-block"></span>${s}</span>`;}
 function toggleCat(cat){collapsed[cat]=!collapsed[cat];render();}
+function compCell(a){
+  if(!a.comp||!a.comp.trezor)return'<span style="color:#ddd">—</span>';
+  return a.comp.trezor.map(e=>{
+    const cls=e.t==='article'?'comp-badge':'comp-badge g';
+    const icon=e.t==='article'?'T':'t';
+    return `<a class="${cls}" href="${e.url}" target="_blank" title="Trezor ${e.t==='article'?'独立文章':'Glossary'}: ${e.title.replace(/"/g,'&quot;')}">${icon}</a>`;
+  }).join('');
+}
 function render(){
   const q=document.getElementById('search').value.toLowerCase();
   const fst=document.getElementById('f-status').value;
@@ -221,7 +233,7 @@ function render(){
     let meta=`${items.length} articles`;
     if(nProd)meta+=` · ${nProd} produced`;
     if(nCov)meta+=` · ${nCov} covered`;
-    html+=`<tr class="sec-row"><td colspan="8"><div class="sec-hdr" onclick="toggleCat('${cat.replace(/'/g,"\'")}')"><div class="sec-title"><span style="width:10px;height:10px;border-radius:50%;background:${col};display:inline-block;flex-shrink:0"></span>${cat}<span class="sec-meta">${meta}</span></div><span class="sec-chev ${isCol?'':'open'}">▲</span></div></td></tr>`;
+    html+=`<tr class="sec-row"><td colspan="9"><div class="sec-hdr" onclick="toggleCat('${cat.replace(/'/g,"\'")}')"><div class="sec-title"><span style="width:10px;height:10px;border-radius:50%;background:${col};display:inline-block;flex-shrink:0"></span>${cat}<span class="sec-meta">${meta}</span></div><span class="sec-chev ${isCol?'':'open'}">▲</span></div></td></tr>`;
     if(!isCol){
       items.forEach(a=>{
         const sm=SM[a.status]||SM.pending;
@@ -233,11 +245,11 @@ function render(){
         else if(a.status==='covered')btn=`<button class="write-btn" onclick="window.open('${a.url}','_blank')">View ↗</button>`;
         const priCls={'高':'pri-high','中':'pri-mid','低':'pri-low'}[a.pri]||'pri-low';
         const rowStyle=a.status==='produced'?'background:#F0F7FF;':a.status==='published'?'background:#F0FFF4;':'';
-        html+=`<tr style="${rowStyle}"><td style="font-size:11px;font-weight:600;color:#999;white-space:nowrap">${a.id}</td><td><div style="font-size:13px">${a.title}</div>${btn}</td><td>${catTag(a.cat)}</td><td><span class="${priCls}">${a.pri}</span></td><td><span class="badge ${sm.c}">${sm.l}</span></td><td>${geo}</td><td><input class="url-input" value="${urlVal}" placeholder="Add URL…" onchange="saveUrl('${a.id}',this.value)" onkeydown="if(event.key==='Enter')this.blur()" /></td><td><span style="display:inline-flex;align-items:center;gap:5px;font-size:11px"><span class="diff-dot ${dm.d}"></span><span class="${dm.t}">${dm.l}</span></span></td></tr>`;
+        html+=`<tr style="${rowStyle}"><td style="font-size:11px;font-weight:600;color:#999;white-space:nowrap">${a.id}</td><td><div style="font-size:13px">${a.title}</div>${btn}</td><td>${catTag(a.cat)}</td><td><span class="${priCls}">${a.pri}</span></td><td><span class="badge ${sm.c}">${sm.l}</span></td><td>${geo}</td><td>${compCell(a)}</td><td><input class="url-input" value="${urlVal}" placeholder="Add URL…" onchange="saveUrl('${a.id}',this.value)" onkeydown="if(event.key==='Enter')this.blur()" /></td><td><span style="display:inline-flex;align-items:center;gap:5px;font-size:11px"><span class="diff-dot ${dm.d}"></span><span class="${dm.t}">${dm.l}</span></span></td></tr>`;
       });
     }
   });
-  document.getElementById('tbody').innerHTML=html||'<tr><td colspan="8" style="padding:2rem;text-align:center;color:#bbb">No results</td></tr>';
+  document.getElementById('tbody').innerHTML=html||'<tr><td colspan="9" style="padding:2rem;text-align:center;color:#bbb">No results</td></tr>';
   const all=getData();
   const total=all.length;
   document.getElementById('s-total').textContent=total;
