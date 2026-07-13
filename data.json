@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-09",
+ "updated": "2026-07-10",
  "articles": [
   {
    "id": "KB001",
@@ -9,7 +9,16 @@
    "geo": 95,
    "url": "https://www.ellipal.com/blogs/knowledge/what-is-a-cold-wallet-cryptocurrency-basic-guide",
    "diff": "beginner",
-   "pri": "高"
+   "pri": "高",
+   "comp": {
+    "trezor": [
+     {
+      "t": "glossary",
+      "title": "Cold Storage",
+      "url": "https://trezor.io/learn/basics/glossary#cold-storage"
+     }
+    ]
+   }
   },
   {
    "id": "KB002",
@@ -19,7 +28,16 @@
    "geo": null,
    "url": "https://www.ellipal.com/blogs/knowledge/hot-vs-cold-wallets",
    "diff": "beginner",
-   "pri": "高"
+   "pri": "高",
+   "comp": {
+    "trezor": [
+     {
+      "t": "glossary",
+      "title": "Hot Wallet",
+      "url": "https://trezor.io/learn/basics/glossary#hot-wallet"
+     }
+    ]
+   }
   },
   {
    "id": "KB004",
@@ -29,7 +47,21 @@
    "geo": 93,
    "url": "",
    "diff": "beginner",
-   "pri": "高"
+   "pri": "高",
+   "comp": {
+    "trezor": [
+     {
+      "t": "article",
+      "title": "What is self-custody and why is it important for your crypto?",
+      "url": "https://trezor.io/learn/basics/what-is-self-custody-and-why-is-it-important-for-your-crypto"
+     },
+     {
+      "t": "glossary",
+      "title": "Non Custodial Wallet",
+      "url": "https://trezor.io/learn/basics/glossary#non-custodial-wallet"
+     }
+    ]
+   }
   },
   {
    "id": "KB003",
@@ -39,7 +71,21 @@
    "geo": null,
    "url": "https://www.ellipal.com/blogs/knowledge/crypto-seed-phrase-guide",
    "diff": "beginner",
-   "pri": "高"
+   "pri": "高",
+   "comp": {
+    "trezor": [
+     {
+      "t": "article",
+      "title": "What is BIP39? How 12 and 24-word wallet backups work",
+      "url": "https://trezor.io/learn/advanced/standards-proposals/what-is-bip-39-how-12-and-24-word-wallet-backups-work"
+     },
+     {
+      "t": "glossary",
+      "title": "Wallet Backup",
+      "url": "https://trezor.io/learn/basics/glossary#wallet-backup"
+     }
+    ]
+   }
   },
   {
    "id": "KB005",
@@ -49,7 +95,16 @@
    "geo": null,
    "url": "",
    "diff": "medium",
-   "pri": "高"
+   "pri": "高",
+   "comp": {
+    "trezor": [
+     {
+      "t": "glossary",
+      "title": "Passphrase",
+      "url": "https://trezor.io/learn/basics/glossary#passphrase"
+     }
+    ]
+   }
   },
   {
    "id": "ED005",
@@ -59,7 +114,16 @@
    "geo": null,
    "url": "",
    "diff": "expert",
-   "pri": "高"
+   "pri": "高",
+   "comp": {
+    "trezor": [
+     {
+      "t": "article",
+      "title": "What is BIP44?",
+      "url": "https://trezor.io/learn/advanced/standards-proposals/what-is-bip44"
+     }
+    ]
+   }
   },
   {
    "id": "NEW-004",
@@ -69,7 +133,16 @@
    "geo": null,
    "url": "",
    "diff": "expert",
-   "pri": "高"
+   "pri": "高",
+   "comp": {
+    "trezor": [
+     {
+      "t": "article",
+      "title": "What is BIP44?",
+      "url": "https://trezor.io/learn/advanced/standards-proposals/what-is-bip44"
+     }
+    ]
+   }
   },
   {
    "id": "NEW-006",
@@ -79,7 +152,16 @@
    "geo": null,
    "url": "",
    "diff": "expert",
-   "pri": "高"
+   "pri": "高",
+   "comp": {
+    "trezor": [
+     {
+      "t": "article",
+      "title": "What is BIP39? How 12 and 24-word wallet backups work",
+      "url": "https://trezor.io/learn/advanced/standards-proposals/what-is-bip-39-how-12-and-24-word-wallet-backups-work"
+     }
+    ]
+   }
   },
   {
    "id": "NEW-016",
@@ -89,7 +171,21 @@
    "geo": null,
    "url": "",
    "diff": "medium",
-   "pri": "高"
+   "pri": "高",
+   "comp": {
+    "trezor": [
+     {
+      "t": "article",
+      "title": "Public & private keys explained",
+      "url": "https://trezor.io/learn/basics/public-private-keys"
+     },
+     {
+      "t": "glossary",
+      "title": "Public Key",
+      "url": "https://trezor.io/learn/basics/glossary#public-key"
+     }
+    ]
+   }
   },
   {
    "id": "NEW-017",
@@ -149,7 +245,16 @@
    "geo": null,
    "url": "",
    "diff": "beginner",
-   "pri": "高"
+   "pri": "高",
+   "comp": {
+    "trezor": [
+     {
+      "t": "article",
+      "title": "Scams and phishing",
+      "url": "https://trezor.io/learn/security-privacy/personal-security-standards/scams-and-phishing"
+     }
+    ]
+   }
   },
   {
    "id": "NEW-018",
@@ -229,7 +334,16 @@
    "geo": null,
    "url": "",
    "diff": "beginner",
-   "pri": "高"
+   "pri": "高",
+   "comp": {
+    "trezor": [
+     {
+      "t": "glossary",
+      "title": "Block Explorer",
+      "url": "https://trezor.io/learn/basics/glossary#block-explorer"
+     }
+    ]
+   }
   },
   {
    "id": "ED002",
@@ -259,7 +373,16 @@
    "geo": null,
    "url": "",
    "diff": "medium",
-   "pri": "高"
+   "pri": "高",
+   "comp": {
+    "trezor": [
+     {
+      "t": "glossary",
+      "title": "Contract Address",
+      "url": "https://trezor.io/learn/basics/glossary#contract-address"
+     }
+    ]
+   }
   },
   {
    "id": "ED006",
@@ -289,7 +412,16 @@
    "geo": null,
    "url": "",
    "diff": "beginner",
-   "pri": "高"
+   "pri": "高",
+   "comp": {
+    "trezor": [
+     {
+      "t": "glossary",
+      "title": "Blockchain",
+      "url": "https://trezor.io/learn/basics/glossary#blockchain"
+     }
+    ]
+   }
   },
   {
    "id": "NEW-010",
@@ -299,7 +431,16 @@
    "geo": null,
    "url": "",
    "diff": "beginner",
-   "pri": "高"
+   "pri": "高",
+   "comp": {
+    "trezor": [
+     {
+      "t": "article",
+      "title": "Coins vs. tokens: what's the difference?",
+      "url": "https://trezor.io/learn/basics/coins-vs-tokens-what-s-the-difference"
+     }
+    ]
+   }
   },
   {
    "id": "NEW-013",
@@ -319,7 +460,16 @@
    "geo": null,
    "url": "",
    "diff": "medium",
-   "pri": "高"
+   "pri": "高",
+   "comp": {
+    "trezor": [
+     {
+      "t": "glossary",
+      "title": "Gas",
+      "url": "https://trezor.io/learn/basics/glossary#gas"
+     }
+    ]
+   }
   },
   {
    "id": "NEW-019",
@@ -329,7 +479,21 @@
    "geo": null,
    "url": "",
    "diff": "beginner",
-   "pri": "高"
+   "pri": "高",
+   "comp": {
+    "trezor": [
+     {
+      "t": "article",
+      "title": "What are smart contracts?",
+      "url": "https://trezor.io/learn/advanced/defi/what-are-smart-contracts"
+     },
+     {
+      "t": "glossary",
+      "title": "Smart Contract",
+      "url": "https://trezor.io/learn/basics/glossary#smart-contract"
+     }
+    ]
+   }
   },
   {
    "id": "NEW-022",
@@ -359,7 +523,21 @@
    "geo": null,
    "url": "",
    "diff": "beginner",
-   "pri": "高"
+   "pri": "高",
+   "comp": {
+    "trezor": [
+     {
+      "t": "article",
+      "title": "What is DeFi?",
+      "url": "https://trezor.io/learn/advanced/defi/what-is-defi"
+     },
+     {
+      "t": "glossary",
+      "title": "Defi Decentralized Finance",
+      "url": "https://trezor.io/learn/basics/glossary#defi-decentralized-finance"
+     }
+    ]
+   }
   },
   {
    "id": "NEW-020",
@@ -379,7 +557,16 @@
    "geo": null,
    "url": "",
    "diff": "beginner",
-   "pri": "高"
+   "pri": "高",
+   "comp": {
+    "trezor": [
+     {
+      "t": "glossary",
+      "title": "Staking",
+      "url": "https://trezor.io/learn/basics/glossary#staking"
+     }
+    ]
+   }
   },
   {
    "id": "NEW-002",
@@ -409,7 +596,21 @@
    "geo": null,
    "url": "",
    "diff": "medium",
-   "pri": "高"
+   "pri": "高",
+   "comp": {
+    "trezor": [
+     {
+      "t": "article",
+      "title": "Pay-to-Public-Key-Hash (P2PKH)",
+      "url": "https://trezor.io/learn/advanced/standards-proposals/pay-to-public-key-hash-p2pkh"
+     },
+     {
+      "t": "article",
+      "title": "Pay to script hash (P2SH)",
+      "url": "https://trezor.io/learn/advanced/standards-proposals/pay-to-script-hash-p2sh"
+     }
+    ]
+   }
   },
   {
    "id": "NEW-025",
@@ -519,7 +720,21 @@
    "geo": null,
    "url": "",
    "diff": "beginner",
-   "pri": "中"
+   "pri": "中",
+   "comp": {
+    "trezor": [
+     {
+      "t": "article",
+      "title": "What is Proof of Stake?",
+      "url": "https://trezor.io/learn/advanced/blockchain-architecture-technologies/what-is-proof-of-stake"
+     },
+     {
+      "t": "glossary",
+      "title": "Proof Of Stake Pos",
+      "url": "https://trezor.io/learn/basics/glossary#proof-of-stake-pos"
+     }
+    ]
+   }
   },
   {
    "id": "CHN-004",
@@ -529,7 +744,16 @@
    "geo": null,
    "url": "",
    "diff": "medium",
-   "pri": "中"
+   "pri": "中",
+   "comp": {
+    "trezor": [
+     {
+      "t": "article",
+      "title": "What is Taproot?",
+      "url": "https://trezor.io/learn/advanced/standards-proposals/what-is-taproot"
+     }
+    ]
+   }
   },
   {
    "id": "CHN-005",
@@ -539,7 +763,16 @@
    "geo": null,
    "url": "",
    "diff": "medium",
-   "pri": "中"
+   "pri": "中",
+   "comp": {
+    "trezor": [
+     {
+      "t": "glossary",
+      "title": "Change Address",
+      "url": "https://trezor.io/learn/basics/glossary#change-address"
+     }
+    ]
+   }
   },
   {
    "id": "BIP-006",
@@ -549,7 +782,16 @@
    "geo": null,
    "url": "",
    "diff": "expert",
-   "pri": "中"
+   "pri": "中",
+   "comp": {
+    "trezor": [
+     {
+      "t": "article",
+      "title": "What is BIP39? How 12 and 24-word wallet backups work",
+      "url": "https://trezor.io/learn/advanced/standards-proposals/what-is-bip-39-how-12-and-24-word-wallet-backups-work"
+     }
+    ]
+   }
   },
   {
    "id": "KEY-006",
@@ -609,7 +851,21 @@
    "geo": null,
    "url": "",
    "diff": "beginner",
-   "pri": "中"
+   "pri": "中",
+   "comp": {
+    "trezor": [
+     {
+      "t": "article",
+      "title": "Public & private keys explained",
+      "url": "https://trezor.io/learn/basics/public-private-keys"
+     },
+     {
+      "t": "glossary",
+      "title": "Private Key",
+      "url": "https://trezor.io/learn/basics/glossary#private-key"
+     }
+    ]
+   }
   },
   {
    "id": "TKN-005",
@@ -629,7 +885,16 @@
    "geo": null,
    "url": "",
    "diff": "beginner",
-   "pri": "中"
+   "pri": "中",
+   "comp": {
+    "trezor": [
+     {
+      "t": "article",
+      "title": "Where are my coins stored? How Bitcoin wallets actually work",
+      "url": "https://trezor.io/learn/basics/where-are-my-coins-stored-how-bitcoin-wallets-actually-work"
+     }
+    ]
+   }
   },
   {
    "id": "SEC-010",
@@ -639,7 +904,16 @@
    "geo": null,
    "url": "",
    "diff": "beginner",
-   "pri": "中"
+   "pri": "中",
+   "comp": {
+    "trezor": [
+     {
+      "t": "glossary",
+      "title": "Authentication",
+      "url": "https://trezor.io/learn/basics/glossary#authentication"
+     }
+    ]
+   }
   },
   {
    "id": "STK-003",
@@ -679,7 +953,16 @@
    "geo": null,
    "url": "",
    "diff": "beginner",
-   "pri": "中"
+   "pri": "中",
+   "comp": {
+    "trezor": [
+     {
+      "t": "glossary",
+      "title": "Airdrop",
+      "url": "https://trezor.io/learn/basics/glossary#airdrop"
+     }
+    ]
+   }
   },
   {
    "id": "BC-005",
@@ -689,7 +972,16 @@
    "geo": null,
    "url": "",
    "diff": "beginner",
-   "pri": "中"
+   "pri": "中",
+   "comp": {
+    "trezor": [
+     {
+      "t": "article",
+      "title": "Is crypto anonymous? Understanding privacy on the blockchain",
+      "url": "https://trezor.io/learn/basics/is-crypto-anonymous-understanding-privacy-on-the-blockchain-1"
+     }
+    ]
+   }
   },
   {
    "id": "KEY-008",
@@ -699,7 +991,21 @@
    "geo": null,
    "url": "",
    "diff": "expert",
-   "pri": "中"
+   "pri": "中",
+   "comp": {
+    "trezor": [
+     {
+      "t": "article",
+      "title": "What is cryptography?",
+      "url": "https://trezor.io/learn/basics/what-is-cryptography"
+     },
+     {
+      "t": "glossary",
+      "title": "Cryptography",
+      "url": "https://trezor.io/learn/basics/glossary#cryptography"
+     }
+    ]
+   }
   },
   {
    "id": "BIP-008",
@@ -719,7 +1025,16 @@
    "geo": null,
    "url": "",
    "diff": "expert",
-   "pri": "中"
+   "pri": "中",
+   "comp": {
+    "trezor": [
+     {
+      "t": "article",
+      "title": "What are BIPs and SLIPs?",
+      "url": "https://trezor.io/learn/advanced/standards-proposals/what-are-bips-slips"
+     }
+    ]
+   }
   },
   {
    "id": "BIP-010",
@@ -729,7 +1044,16 @@
    "geo": null,
    "url": "",
    "diff": "expert",
-   "pri": "中"
+   "pri": "中",
+   "comp": {
+    "trezor": [
+     {
+      "t": "article",
+      "title": "What is BIP39? How 12 and 24-word wallet backups work",
+      "url": "https://trezor.io/learn/advanced/standards-proposals/what-is-bip-39-how-12-and-24-word-wallet-backups-work"
+     }
+    ]
+   }
   },
   {
    "id": "BIP-011",
@@ -739,7 +1063,16 @@
    "geo": null,
    "url": "",
    "diff": "expert",
-   "pri": "中"
+   "pri": "中",
+   "comp": {
+    "trezor": [
+     {
+      "t": "article",
+      "title": "What is BIP39? How 12 and 24-word wallet backups work",
+      "url": "https://trezor.io/learn/advanced/standards-proposals/what-is-bip-39-how-12-and-24-word-wallet-backups-work"
+     }
+    ]
+   }
   },
   {
    "id": "BIP-012",
@@ -749,7 +1082,16 @@
    "geo": null,
    "url": "",
    "diff": "beginner",
-   "pri": "中"
+   "pri": "中",
+   "comp": {
+    "trezor": [
+     {
+      "t": "article",
+      "title": "What is BIP44?",
+      "url": "https://trezor.io/learn/advanced/standards-proposals/what-is-bip44"
+     }
+    ]
+   }
   },
   {
    "id": "CHN-008",
@@ -799,7 +1141,16 @@
    "geo": null,
    "url": "",
    "diff": "beginner",
-   "pri": "中"
+   "pri": "中",
+   "comp": {
+    "trezor": [
+     {
+      "t": "glossary",
+      "title": "Block",
+      "url": "https://trezor.io/learn/basics/glossary#block"
+     }
+    ]
+   }
   },
   {
    "id": "BC-007",
@@ -849,7 +1200,16 @@
    "geo": null,
    "url": "",
    "diff": "beginner",
-   "pri": "中"
+   "pri": "中",
+   "comp": {
+    "trezor": [
+     {
+      "t": "glossary",
+      "title": "Exchange",
+      "url": "https://trezor.io/learn/basics/glossary#exchange"
+     }
+    ]
+   }
   },
   {
    "id": "BC-008",
@@ -879,7 +1239,16 @@
    "geo": null,
    "url": "",
    "diff": "medium",
-   "pri": "中"
+   "pri": "中",
+   "comp": {
+    "trezor": [
+     {
+      "t": "glossary",
+      "title": "Consensus Algorithm",
+      "url": "https://trezor.io/learn/basics/glossary#consensus-algorithm"
+     }
+    ]
+   }
   },
   {
    "id": "PAY-004",
@@ -929,7 +1298,16 @@
    "geo": null,
    "url": "",
    "diff": "beginner",
-   "pri": "中"
+   "pri": "中",
+   "comp": {
+    "trezor": [
+     {
+      "t": "glossary",
+      "title": "Decentralized Autonomous Organization Dao",
+      "url": "https://trezor.io/learn/basics/glossary#decentralized-autonomous-organization-dao"
+     }
+    ]
+   }
   },
   {
    "id": "DFI-008",
@@ -939,7 +1317,21 @@
    "geo": null,
    "url": "",
    "diff": "beginner",
-   "pri": "中"
+   "pri": "中",
+   "comp": {
+    "trezor": [
+     {
+      "t": "article",
+      "title": "What are dApps?",
+      "url": "https://trezor.io/learn/advanced/defi/what-are-decentralized-apps-dapps"
+     },
+     {
+      "t": "glossary",
+      "title": "Decentralized Application Dapp",
+      "url": "https://trezor.io/learn/basics/glossary#decentralized-application-dapp"
+     }
+    ]
+   }
   },
   {
    "id": "DFI-009",
@@ -949,7 +1341,16 @@
    "geo": null,
    "url": "",
    "diff": "medium",
-   "pri": "中"
+   "pri": "中",
+   "comp": {
+    "trezor": [
+     {
+      "t": "glossary",
+      "title": "Decentralized Exchange Dex",
+      "url": "https://trezor.io/learn/basics/glossary#decentralized-exchange-dex"
+     }
+    ]
+   }
   },
   {
    "id": "BC-010",
@@ -959,7 +1360,16 @@
    "geo": null,
    "url": "",
    "diff": "medium",
-   "pri": "中"
+   "pri": "中",
+   "comp": {
+    "trezor": [
+     {
+      "t": "glossary",
+      "title": "Decentralization",
+      "url": "https://trezor.io/learn/basics/glossary#decentralization"
+     }
+    ]
+   }
   },
   {
    "id": "STK-005",
@@ -1079,7 +1489,16 @@
    "geo": null,
    "url": "",
    "diff": "medium",
-   "pri": "中"
+   "pri": "中",
+   "comp": {
+    "trezor": [
+     {
+      "t": "glossary",
+      "title": "Hard Fork",
+      "url": "https://trezor.io/learn/basics/glossary#hard-fork"
+     }
+    ]
+   }
   },
   {
    "id": "TKN-007",
@@ -1109,7 +1528,16 @@
    "geo": null,
    "url": "",
    "diff": "medium",
-   "pri": "中"
+   "pri": "中",
+   "comp": {
+    "trezor": [
+     {
+      "t": "glossary",
+      "title": "Halving",
+      "url": "https://trezor.io/learn/basics/glossary#halving"
+     }
+    ]
+   }
   },
   {
    "id": "KEY-010",
@@ -1119,7 +1547,16 @@
    "geo": null,
    "url": "",
    "diff": "medium",
-   "pri": "中"
+   "pri": "中",
+   "comp": {
+    "trezor": [
+     {
+      "t": "glossary",
+      "title": "Hash",
+      "url": "https://trezor.io/learn/basics/glossary#hash"
+     }
+    ]
+   }
   },
   {
    "id": "KEY-011",
@@ -1199,7 +1636,16 @@
    "geo": null,
    "url": "",
    "diff": "medium",
-   "pri": "中"
+   "pri": "中",
+   "comp": {
+    "trezor": [
+     {
+      "t": "glossary",
+      "title": "Layer 2",
+      "url": "https://trezor.io/learn/basics/glossary#layer-2"
+     }
+    ]
+   }
   },
   {
    "id": "CHN-013",
@@ -1209,7 +1655,16 @@
    "geo": null,
    "url": "",
    "diff": "beginner",
-   "pri": "中"
+   "pri": "中",
+   "comp": {
+    "trezor": [
+     {
+      "t": "glossary",
+      "title": "Layer 2",
+      "url": "https://trezor.io/learn/basics/glossary#layer-2"
+     }
+    ]
+   }
   },
   {
    "id": "PAY-008",
@@ -1249,7 +1704,16 @@
    "geo": null,
    "url": "",
    "diff": "beginner",
-   "pri": "中"
+   "pri": "中",
+   "comp": {
+    "trezor": [
+     {
+      "t": "glossary",
+      "title": "Liquidity",
+      "url": "https://trezor.io/learn/basics/glossary#liquidity"
+     }
+    ]
+   }
   },
   {
    "id": "TXN-009",
@@ -1359,7 +1823,16 @@
    "geo": null,
    "url": "",
    "diff": "medium",
-   "pri": "中"
+   "pri": "中",
+   "comp": {
+    "trezor": [
+     {
+      "t": "glossary",
+      "title": "Nft Non Fungible Token",
+      "url": "https://trezor.io/learn/basics/glossary#nft-non-fungible-token"
+     }
+    ]
+   }
   },
   {
    "id": "TXN-011",
@@ -1379,7 +1852,16 @@
    "geo": null,
    "url": "",
    "diff": "beginner",
-   "pri": "中"
+   "pri": "中",
+   "comp": {
+    "trezor": [
+     {
+      "t": "glossary",
+      "title": "Node",
+      "url": "https://trezor.io/learn/basics/glossary#node"
+     }
+    ]
+   }
   },
   {
    "id": "TXN-012",
@@ -1389,7 +1871,16 @@
    "geo": null,
    "url": "",
    "diff": "medium",
-   "pri": "中"
+   "pri": "中",
+   "comp": {
+    "trezor": [
+     {
+      "t": "glossary",
+      "title": "Nonce",
+      "url": "https://trezor.io/learn/basics/glossary#nonce"
+     }
+    ]
+   }
   },
   {
    "id": "BIP-016",
@@ -1469,7 +1960,16 @@
    "geo": null,
    "url": "",
    "diff": "medium",
-   "pri": "中"
+   "pri": "中",
+   "comp": {
+    "trezor": [
+     {
+      "t": "glossary",
+      "title": "Rug Pull",
+      "url": "https://trezor.io/learn/basics/glossary#rug-pull"
+     }
+    ]
+   }
   },
   {
    "id": "SEC-019",
@@ -1519,7 +2019,16 @@
    "geo": null,
    "url": "",
    "diff": "expert",
-   "pri": "中"
+   "pri": "中",
+   "comp": {
+    "trezor": [
+     {
+      "t": "glossary",
+      "title": "Slippage",
+      "url": "https://trezor.io/learn/basics/glossary#slippage"
+     }
+    ]
+   }
   },
   {
    "id": "BIP-018",
@@ -1579,7 +2088,16 @@
    "geo": null,
    "url": "",
    "diff": "beginner",
-   "pri": "中"
+   "pri": "中",
+   "comp": {
+    "trezor": [
+     {
+      "t": "article",
+      "title": "How stablecoin yield works with Morpho vaults",
+      "url": "https://trezor.io/learn/advanced/defi/how-stablecoin-yield-works-with-morpho-vaults"
+     }
+    ]
+   }
   },
   {
    "id": "STK-009",
@@ -1619,7 +2137,16 @@
    "geo": null,
    "url": "",
    "diff": "beginner",
-   "pri": "中"
+   "pri": "中",
+   "comp": {
+    "trezor": [
+     {
+      "t": "glossary",
+      "title": "Token",
+      "url": "https://trezor.io/learn/basics/glossary#token"
+     }
+    ]
+   }
   },
   {
    "id": "TKN-013",
@@ -1639,7 +2166,16 @@
    "geo": null,
    "url": "",
    "diff": "medium",
-   "pri": "中"
+   "pri": "中",
+   "comp": {
+    "trezor": [
+     {
+      "t": "glossary",
+      "title": "Utxo",
+      "url": "https://trezor.io/learn/basics/glossary#utxo"
+     }
+    ]
+   }
   },
   {
    "id": "STK-010",
@@ -1669,7 +2205,16 @@
    "geo": null,
    "url": "",
    "diff": "beginner",
-   "pri": "中"
+   "pri": "中",
+   "comp": {
+    "trezor": [
+     {
+      "t": "glossary",
+      "title": "Pin",
+      "url": "https://trezor.io/learn/basics/glossary#pin"
+     }
+    ]
+   }
   },
   {
    "id": "DFI-015",
@@ -1729,7 +2274,16 @@
    "geo": null,
    "url": "",
    "diff": "medium",
-   "pri": "中"
+   "pri": "中",
+   "comp": {
+    "trezor": [
+     {
+      "t": "glossary",
+      "title": "Layer 2",
+      "url": "https://trezor.io/learn/basics/glossary#layer-2"
+     }
+    ]
+   }
   },
   {
    "id": "DFI-016",
@@ -1979,7 +2533,16 @@
    "geo": null,
    "url": "",
    "diff": "beginner",
-   "pri": "低"
+   "pri": "低",
+   "comp": {
+    "trezor": [
+     {
+      "t": "glossary",
+      "title": "Burn",
+      "url": "https://trezor.io/learn/basics/glossary#burn"
+     }
+    ]
+   }
   },
   {
    "id": "TXN-016",
@@ -2759,7 +3322,16 @@
    "geo": null,
    "url": "",
    "diff": "expert",
-   "pri": "低"
+   "pri": "低",
+   "comp": {
+    "trezor": [
+     {
+      "t": "article",
+      "title": "What are BIPs and SLIPs?",
+      "url": "https://trezor.io/learn/advanced/standards-proposals/what-are-bips-slips"
+     }
+    ]
+   }
   },
   {
    "id": "CHN-037",
@@ -3000,6 +3572,192 @@
    "url": "",
    "diff": "beginner",
    "pri": "低"
+  },
+  {
+   "id": "KB009",
+   "cat": "Cold Wallet Basics",
+   "title": "What Is a Secure Element in Hardware Wallets?",
+   "status": "pending",
+   "geo": null,
+   "url": "",
+   "diff": "medium",
+   "pri": "高",
+   "comp": {
+    "trezor": [
+     {
+      "t": "glossary",
+      "title": "Secure Element",
+      "url": "https://trezor.io/learn/basics/glossary#secure-element"
+     }
+    ]
+   }
+  },
+  {
+   "id": "BIP-028",
+   "cat": "Keys & Standards",
+   "title": "What Is Shamir Backup (SLIP39)?",
+   "status": "pending",
+   "geo": null,
+   "url": "",
+   "diff": "medium",
+   "pri": "高",
+   "comp": {
+    "trezor": [
+     {
+      "t": "article",
+      "title": "What is Shamir backup?",
+      "url": "https://trezor.io/learn/advanced/standards-proposals/what-is-shamir-backup"
+     },
+     {
+      "t": "glossary",
+      "title": "Shamir Backup SLIP39",
+      "url": "https://trezor.io/learn/basics/glossary#shamir-backup-slip39"
+     }
+    ]
+   }
+  },
+  {
+   "id": "CHN-042",
+   "cat": "Exchange & Chains",
+   "title": "What Is the EVM (Ethereum Virtual Machine)?",
+   "status": "pending",
+   "geo": null,
+   "url": "",
+   "diff": "medium",
+   "pri": "中",
+   "comp": {
+    "trezor": [
+     {
+      "t": "glossary",
+      "title": "Ethereum Virtual Machine",
+      "url": "https://trezor.io/learn/basics/glossary#etherem-virtual-machine"
+     }
+    ]
+   }
+  },
+  {
+   "id": "SEC-030",
+   "cat": "Security & Threats",
+   "title": "Is Quantum Computing a Threat to Crypto?",
+   "status": "pending",
+   "geo": null,
+   "url": "",
+   "diff": "medium",
+   "pri": "中",
+   "comp": {
+    "trezor": [
+     {
+      "t": "glossary",
+      "title": "Quantum Threat",
+      "url": "https://trezor.io/learn/basics/glossary#quantum-threat"
+     }
+    ]
+   }
+  },
+  {
+   "id": "SEC-031",
+   "cat": "Security & Threats",
+   "title": "Why Does Open Source Matter for Wallet Security?",
+   "status": "pending",
+   "geo": null,
+   "url": "",
+   "diff": "beginner",
+   "pri": "中",
+   "comp": {
+    "trezor": [
+     {
+      "t": "glossary",
+      "title": "Open Source",
+      "url": "https://trezor.io/learn/basics/glossary#open-source"
+     }
+    ]
+   }
+  },
+  {
+   "id": "BC-026",
+   "cat": "Blockchain & Tokens",
+   "title": "What Is the Blockchain Trilemma?",
+   "status": "pending",
+   "geo": null,
+   "url": "",
+   "diff": "medium",
+   "pri": "中",
+   "comp": {
+    "trezor": [
+     {
+      "t": "article",
+      "title": "What is the blockchain trilemma?",
+      "url": "https://trezor.io/learn/advanced/blockchain-architecture-technologies/what-is-the-blockchain-trilemma"
+     },
+     {
+      "t": "glossary",
+      "title": "Blockchain Trilemma",
+      "url": "https://trezor.io/learn/basics/glossary#blockchain-trilemma"
+     }
+    ]
+   }
+  },
+  {
+   "id": "BC-027",
+   "cat": "Blockchain & Tokens",
+   "title": "Soft Fork vs Hard Fork: What's the Difference?",
+   "status": "pending",
+   "geo": null,
+   "url": "",
+   "diff": "medium",
+   "pri": "中",
+   "comp": {
+    "trezor": [
+     {
+      "t": "glossary",
+      "title": "Soft Fork",
+      "url": "https://trezor.io/learn/basics/glossary#soft-fork"
+     },
+     {
+      "t": "glossary",
+      "title": "Hard Fork",
+      "url": "https://trezor.io/learn/basics/glossary#hard-fork"
+     }
+    ]
+   }
+  },
+  {
+   "id": "BC-028",
+   "cat": "Blockchain & Tokens",
+   "title": "What Is Sharding?",
+   "status": "pending",
+   "geo": null,
+   "url": "",
+   "diff": "medium",
+   "pri": "低",
+   "comp": {
+    "trezor": [
+     {
+      "t": "glossary",
+      "title": "Sharding",
+      "url": "https://trezor.io/learn/basics/glossary#sharding"
+     }
+    ]
+   }
+  },
+  {
+   "id": "BIP-030",
+   "cat": "Keys & Standards",
+   "title": "What Is BIP329 (Transaction Labels)?",
+   "status": "pending",
+   "geo": null,
+   "url": "",
+   "diff": "expert",
+   "pri": "低",
+   "comp": {
+    "trezor": [
+     {
+      "t": "article",
+      "title": "What is BIP329? Portable labels",
+      "url": "https://trezor.io/learn/advanced/standards-proposals/what-is-bip-329-portable-labels-for-bitcoin-transactions"
+     }
+    ]
+   }
   }
  ]
 }
